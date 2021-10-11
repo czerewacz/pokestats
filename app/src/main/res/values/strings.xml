@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PokeStats</string>
+
+    //Poke Analyzer Screen
+    <string name="poke_analyzer_title">Pokémon Height/Weight Analyzer</string>
+    <string name="poke_analyzer_desc">Query a list of Pokémon from the API using the limit and offset inputs </string>
+    <string name="poke_analyzer_limit">Limit Input</string>
+    <string name="poke_analyzer_limit_hint">Limit</string>
+    <string name="poke_analyzer_offset">Offset Input</string>
+    <string name="poke_analyzer_offset_hint">Offset</string>
+    <string name="poke_analyzer_btn">Get Pokemons</string>
+    <string name="poke_analyzer_type_btn">Get Pokemons By Type</string>
+    <string name="poke_analyzer_total"><b>Total Pokemons analyzed: </b></string>
+    <string name="poke_analyzer_weight"><b>Pokemon average weight: </b></string>
+    <string name="poke_analyzer_height"><b>Pokemon average height: </b></string>
+    <string name="poke_analyzer_error">"Error Requesting Pokemons Average. Please try again"</string>
+    <string name="poke_analyzer_time">Elapsed Time Calculation</string>
+
+</resources>

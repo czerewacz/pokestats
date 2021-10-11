@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margin sizes. -->
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="margin_180">180dp</dimen>
+
+    <!-- Sizes -->
+    <dimen name="dimen_48">48dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_16">16sp</dimen>
+
+</resources>
